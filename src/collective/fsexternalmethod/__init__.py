@@ -1,0 +1,1 @@
+from collective.fsexternalmethod import fsexternalmethod
